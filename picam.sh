@@ -1,1 +1,1 @@
-chromium --kiosk http://ansilva:raspberry@localhost/_admin.php
+epiphany-browser -a --profile ~/.config http://ansilva:raspberry@localhost/_admin.php
